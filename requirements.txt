@@ -1,0 +1,2 @@
+# Add pinned dependencies after verifying the final training environment.
+# Example (replace with actual versions): ultralytics==<version>
